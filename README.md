@@ -62,14 +62,12 @@ data/
 ```
 ## Training
 
-The names `phase1` and `phase2` below describe the two optimization phases of the Stage-II colorization model; they are not the paper’s Stage-I densification and Stage-II colorization modules.
-
 ```bash
 cd cyclops
 bash examples/training/run_train_two_phase.sh
 ```
 
-Or:
+or:
 
 ```bash
 python examples/training/train.py examples/training/config/intensity_phase1.yaml
@@ -77,7 +75,6 @@ python examples/training/train.py examples/training/config/intensity_phase2.yaml
 ```
 ## Inference
 
-Inference requires a compatible trained checkpoint and one or more dense intensity sequences:
 
 ```text
 data/test/
@@ -160,8 +157,6 @@ cd ~/cyclops_ws
 catkin build
 source devel/setup.bash
 ```
-
-Run the two utilities with the input and output roots:
 
 ```bash
 rosrun cyclops_ros extract_odom \
