@@ -8,7 +8,7 @@ This is the code repository for the CoRL 2026 paper **“Cyclops: LiDAR as a Cam
   <a href="https://arxiv.org/pdf/2608.16264">
     <img src="https://img.shields.io/badge/arXiv-2608.16264-B31B1B?style=for-the-badge&amp;logo=arxiv&amp;logoColor=white" alt="Paper">
   </a>
-  <a href="https://youtu.be/QiCe5U_9kOg">
+  <a href="https://youtu.be/Dys_aHrHQg8">
     <img src="https://img.shields.io/badge/YouTube-Project%20Video-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Project video">
   </a>
   <a href="./cyclops">
