@@ -2,7 +2,7 @@
 
 This is the code repository for the CoRL 2026 paper **“Cyclops: LiDAR as a Camera That Dreams in Color.”**
 
-[![Cyclops](cover_vedio.png)](https://youtu.be/QiCe5U_9kOg)
+[![Cyclops](cover_vedio.png)](https://youtu.be/Dys_aHrHQg8)
 
 <p align="center">
   <a href="https://arxiv.org/pdf/2608.16264">
